@@ -12,5 +12,3 @@ As a passionate web developer, I've created this landing page to demonstrate my 
 - **Interactive Elements**: Enhance user engagement with interactive elements such as smooth transitions, hover effects, and animated components that bring the landing page to life.
 ## How to Interact
 - **View the Live Demo**: Explore the live demo of my landing page [here](https://davwidos.github.io/Kickstarter-landing-page/).
-- **Clone or Fork**: Dive into the codebase by cloning or forking this repository. Analyze the HTML, CSS/SASS files, and explore the structure and organization of the project.
-- **Contribute**: If you spot any areas for improvement or have suggestions to enhance the landing page, feel free to open an issue or submit a pull request. I welcome collaboration and constructive feedback from fellow developers!
