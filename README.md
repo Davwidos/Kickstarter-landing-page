@@ -1,5 +1,4 @@
 # HTML/CSS Showcase Landing Page Repository
-[DEMO](https://davwidos.github.io/Kickstarter-landing-page/)
 
 Welcome to my HTML/CSS Showcase Landing Page Repository! This repository hosts the codebase for a dynamic and visually stunning landing page, meticulously crafted to showcase my proficiency in HTML, CSS, and SASS.
 
@@ -11,3 +10,4 @@ As a passionate web developer, I've created this landing page to demonstrate my 
 - **Responsive Design**: Utilizing CSS media queries and flexible layouts, the landing page seamlessly adapts to different screen sizes and devices, ensuring a consistent and enjoyable experience for all users.
 - **SASS Styling**: Leveraging the power of SASS preprocessor, the CSS codebase is organized, modular, and easy to maintain, demonstrating my proficiency in writing scalable and efficient stylesheets.
 - **Interactive Elements**: Enhance user engagement with interactive elements such as smooth transitions, hover effects, and animated components that bring the landing page to life.
+## [DEMO](https://davwidos.github.io/Kickstarter-landing-page/)
