@@ -10,4 +10,7 @@ As a passionate web developer, I've created this landing page to demonstrate my 
 - **Responsive Design**: Utilizing CSS media queries and flexible layouts, the landing page seamlessly adapts to different screen sizes and devices, ensuring a consistent and enjoyable experience for all users.
 - **SASS Styling**: Leveraging the power of SASS preprocessor, the CSS codebase is organized, modular, and easy to maintain, demonstrating my proficiency in writing scalable and efficient stylesheets.
 - **Interactive Elements**: Enhance user engagement with interactive elements such as smooth transitions, hover effects, and animated components that bring the landing page to life.
-## [DEMO](https://davwidos.github.io/Kickstarter-landing-page/)
+## How to Interact
+- **View the Live Demo**: Explore the live demo of my landing page [here]([https://yourlandingpage.com](https://davwidos.github.io/Kickstarter-landing-page/)).
+- **Clone or Fork**: Dive into the codebase by cloning or forking this repository. Analyze the HTML, CSS/SASS files, and explore the structure and organization of the project.
+- **Contribute**: If you spot any areas for improvement or have suggestions to enhance the landing page, feel free to open an issue or submit a pull request. I welcome collaboration and constructive feedback from fellow developers!
